@@ -2,8 +2,8 @@
 
 Mockup: https://dribbble.com/shots/8226522-Perfume-e-commerce-Mobile-App/attachments/596233?mode=media
 
-![Home Screen](screenshots/home_page.png)
-![Product Page](screenshots/product_page.png)
+![Home Screen](screenshots/home_page.png | width=200)
+![Product Page](screenshots/product_page.png | width=200)
 
 ## Getting Started
 
