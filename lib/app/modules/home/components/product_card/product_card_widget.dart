@@ -1,6 +1,7 @@
 import 'package:challenge_20200328/app/shared/models/product_model.dart';
 import 'package:challenge_20200328/app/utils/constants.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
 class ProductCardWidget extends StatelessWidget {
   final ProductModel productModel;
@@ -11,7 +12,9 @@ class ProductCardWidget extends StatelessWidget {
     return Stack(
       children: <Widget>[
         InkWell(
-          onTap: () {},
+          onTap: () {
+            Modular.to.pushNamed("/product", arguments: productModel);
+          },
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
