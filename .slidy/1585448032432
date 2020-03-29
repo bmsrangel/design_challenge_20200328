@@ -1,0 +1,2 @@
+lib/app/modules/home/components/best_deals/best_deals_widget.dart
+test/app/modules/home/components/best_deals/best_deals_widget_test.dart

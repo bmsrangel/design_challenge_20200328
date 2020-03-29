@@ -1,0 +1,2 @@
+lib/app/modules/home/components/product_list/product_list_widget.dart
+test/app/modules/home/components/product_list/product_list_widget_test.dart

@@ -1,0 +1,2 @@
+lib/app/modules/home/components/category_title/category_title_widget.dart
+test/app/modules/home/components/category_title/category_title_widget_test.dart

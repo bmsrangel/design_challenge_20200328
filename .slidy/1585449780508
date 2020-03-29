@@ -1,0 +1,4 @@
+lib/app/modules/home/components/popular_suggested_selection/popular_suggested_selection_widget.dart
+test/app/modules/home/components/popular_suggested_selection/popular_suggested_selection_widget_test.dart
+lib/app/modules/home/components/popular_suggested_selection/popular_suggested_selection_bloc.dart
+test/app/modules/home/components/popular_suggested_selection/popular_suggested_selection_bloc_test.dart
