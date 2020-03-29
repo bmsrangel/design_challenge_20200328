@@ -1,0 +1,2 @@
+lib/app/modules/product/components/top_bar/top_bar_widget.dart
+test/app/modules/product/components/top_bar/top_bar_widget_test.dart

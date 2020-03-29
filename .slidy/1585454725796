@@ -1,0 +1,2 @@
+lib/app/modules/product/components/rating_section/rating_section_widget.dart
+test/app/modules/product/components/rating_section/rating_section_widget_test.dart

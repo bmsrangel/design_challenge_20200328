@@ -2,6 +2,9 @@
 
 Mockup: https://dribbble.com/shots/8226522-Perfume-e-commerce-Mobile-App/attachments/596233?mode=media
 
+![Home Screen](screenshots/home_page.png)
+![Product Page](screenshots/product_page.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
